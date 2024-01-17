@@ -1,2 +1,3 @@
 <?php
-define("NAME", "janith");
+define("NAME", "daham");
+define("AGE", 21);
