@@ -1,2 +1,2 @@
 <?php
-define("NAME", "janith");
+define("NAME", "daham");
